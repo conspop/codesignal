@@ -13,6 +13,6 @@ test('return whether almost increasing sequence', () => {
 })
 
 test('return whether almost increasing sequence', () => {
-  expect(almostIncreasingSequence([1, 2, 1, 2])).toBe(true)
+  expect(almostIncreasingSequence([1, 2, 1, 2])).toBe(false)
 })
 
