@@ -1,0 +1,14 @@
+{
+  "name": "codesignal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "make-array-consecutive-2.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
